@@ -1,1 +1,1 @@
-# NGS-data-analysis
+# bacterial-NGS-data-analysis
