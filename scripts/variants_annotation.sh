@@ -21,5 +21,5 @@ snpEff=../variants/snpEff_latest_core/snpEff/snpEff.jar
 # Annotate with SnpEff
 # -------------------------------
 echo "Annotating variants with SnpEff..."
-java -jar $snpEFF ann ref_genome $VCF > $ANNOTATED_VCF
+java -jar $snpEff ann ref_genome $VCF > $ANNOTATED_VCF
 echo "Annotation complete! Annotated VCF saved in ../variants/annotated/"
